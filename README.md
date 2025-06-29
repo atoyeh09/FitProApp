@@ -1,6 +1,6 @@
 # FitProApp
 
-A multi-file C++ gym management system
+Gym management system written in C++
 
 Functionality:
 * Login/SignUp
